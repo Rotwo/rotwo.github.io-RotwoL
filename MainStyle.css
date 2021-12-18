@@ -1,0 +1,13 @@
+
+#old {
+    background: #09CEBF;
+    background: -moz-linear-gradient(arriba, #09cebe6e 0%rgba(21, 145, 164, 0.466)A4 0%, #01aec56b 100%);
+    background: -webkit-linear-gradient(arriba, #09cebe7c 0%, #1591a467 0%, #01aec58a 100%);
+    background: linear-gradient(to right, #09cebe70 0%rgba(21, 145, 164, 0.411)A4 0%, #01aec565 100%);
+    }
+    body {
+        background: #2A4140;
+        background: -moz-linear-gradient(left, #2A4140 0%, #252F2F 50%, #141D1B 100%);
+        background: -webkit-linear-gradient(left, #2A4140 0%, #252F2F 50%, #141D1B 100%);
+        background: linear-gradient(to right, #2A4140 0%, #252F2F 50%, #141D1B 100%);
+        }
