@@ -1,3 +1,3 @@
 # RotwoL Launcher
 
-<n>Hi<n>
+<i>Version: 2.0.0<i>
